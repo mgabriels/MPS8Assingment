@@ -1,0 +1,14 @@
+C:\Assignments\Assignment8\Assignment8\Assignment8\obj\Debug\netstandard2.0\Assignment8.csprojAssemblyReference.cache
+C:\Assignments\Assignment8\Assignment8\Assignment8\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Assignments\Assignment8\Assignment8\Assignment8\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Assignments\Assignment8\Assignment8\Assignment8\obj\Debug\netstandard2.0\Assignment8.AssemblyInfoInputs.cache
+C:\Assignments\Assignment8\Assignment8\Assignment8\obj\Debug\netstandard2.0\Assignment8.AssemblyInfo.cs
+C:\Assignments\Assignment8\Assignment8\Assignment8\obj\Debug\netstandard2.0\Assignment8.csproj.CoreCompileInputs.cache
+C:\Assignments\Assignment8\Assignment8\Assignment8\bin\Debug\netstandard2.0\Assignment8.deps.json
+C:\Assignments\Assignment8\Assignment8\Assignment8\bin\Debug\netstandard2.0\Assignment8.dll
+C:\Assignments\Assignment8\Assignment8\Assignment8\bin\Debug\netstandard2.0\ref\Assignment8.dll
+C:\Assignments\Assignment8\Assignment8\Assignment8\bin\Debug\netstandard2.0\Assignment8.pdb
+C:\Assignments\Assignment8\Assignment8\Assignment8\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Assignments\Assignment8\Assignment8\Assignment8\obj\Debug\netstandard2.0\Assignment8.dll
+C:\Assignments\Assignment8\Assignment8\Assignment8\obj\Debug\netstandard2.0\ref\Assignment8.dll
+C:\Assignments\Assignment8\Assignment8\Assignment8\obj\Debug\netstandard2.0\Assignment8.pdb
